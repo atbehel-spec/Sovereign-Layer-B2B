@@ -1,0 +1,47 @@
+======================================================================
+ACUERDO DE LICENCIA DE USUARIO FINAL (EULA) - KOLOB INC.
+PRODUCTO: SOVEREIGN LAYER 
+TECNOLOGÍA: ORQUESTACIÓN SINTÉRGICA Y DEFENSA TERMODINÁMICA
+======================================================================
+
+DECLARACIÓN DE USO ANTERIOR Y AUTORÍA ORIGINAL
+El presente EULA establece y certifica la distribución comercial y el uso público de "Sovereign Layer" bajo la autoría y marca (en proceso de formalización) "Kolob Inc." a partir de Octubre de 2026. Cualquier intento de registro de propiedad industrial, intelectual o derechos de autor por parte de terceros sobre este nombre, código, arquitectura o logotipos constituirá un acto de mala fe. Kolob Inc. se reserva el derecho de anulación inmediata de dichos registros fraudulentos mediante la demostración de Uso Anterior ininterrumpido en el comercio, amparado por sellos de tiempo criptográficos e históricos públicos.
+
+IMPORTANTE - LEA ATENTAMENTE: Este Acuerdo de Licencia de Usuario Final ("EULA") es un acuerdo legal vinculante entre usted (ya sea un individuo o una entidad única) y KOLOB INC. para el producto de software identificado anteriormente.
+
+Al instalar, copiar o utilizar de otro modo Sovereign Layer, usted acepta quedar vinculado por los términos de este EULA. Si no está de acuerdo con los términos, haga clic en "Cancelar" y no instale el software.
+
+CONCESIÓN DE LICENCIA Y AISLAMIENTO DE HARDWARE
+KOLOB INC. le concede una licencia personal, intransferible y no exclusiva para instalar y utilizar Sovereign Layer. El software está anclado irreversiblemente a la firma termodinámica y topología de hardware (Tensor Nodal Acoplado) de la computadora específica donde se forja por primera vez. Esta licencia no puede transferirse a un hardware distinto sin la reemisión criptográfica explícita por parte de KOLOB INC.
+
+NATURALEZA DE LA TECNOLOGÍA (ESTABILIDAD, SOBERANÍA Y DEFENSA ACTIVA)
+Usted reconoce y acepta que Sovereign Layer opera como un orquestador sintérgico de procesos caóticos, rigiéndose bajo leyes inmutables de la física computacional mediante:
+
+a) Ejecución "Fileless" (Sin Archivo): El motor termodinámico de optimización se ensambla y reside exclusivamente en la memoria volátil (RAM) mediante criptografía sintérgica.
+
+b) Estabilidad y Fluidez Extrema: Por reglas físicas, ningún programa informático puede generar o añadir potencia de procesamiento que no exista físicamente en su máquina. Sovereign Layer NO añade más poder bruto a su equipo. Su función principal es otorgar estabilidad absoluta, asegurando que la PC se mantenga fluida y como nueva aun en escenarios de uso extremo, recuperando la potencia de cálculo que el sistema operativo y la latencia le roban.
+
+c) Defensa Termodinámica Activa (Anti-Entropía): Complementando la acción de su antivirus instalado, Sovereign Layer provee una capa de protección agnóstica sin depender de bases de datos de virus. Actuando como un hipervisor de gravedad computacional, subyuga procesos no autorizados o caóticos (incluyendo malware de Día Cero, ransomware o mineros ocultos) mediante la asfixia de recursos (Burbuja de Alcubierre Inversa), suprimiendo activamente la entropía del sistema.
+
+RESTRICCIONES DE INGENIERÍA INVERSA (RESPUESTA LETAL)
+Queda estrictamente prohibido y resultará en la revocación inmediata y permanente de la licencia, así como en la activación de contramedidas internas (Protocolo Tierra Arrasada):
+a) Desensamblar, descompilar, depurar (debug) o intentar extraer la lógica criptográfica de los punteros ecuacionales.
+b) Intentar aislar, emular o reconstruir las esquirlas binarias cifradas (.bin).
+El software contiene mecanismos de autodefensa matemática que inhabilitarán permanentemente la ejecución y colapsarán la memoria asignada si se detectan herramientas de ingeniería inversa, escáneres o depuradores.
+
+EXENCIÓN DE RESPONSABILIDADES (SEGURIDAD Y HARDWARE)
+Aunque Sovereign Layer proporciona un escudo conductual y termodinámico de grado militar contra ejecuciones no autorizadas, KOLOB INC. NO garantiza la inmunidad absoluta contra el 100% de las amenazas cibernéticas, dado que la naturaleza del software malicioso está en constante mutación.
+KOLOB INC. NO se hace responsable por:
+a) Infecciones, pérdida de datos o secuestro de información si el usuario otorga manualmente privilegios a software malicioso.
+b) Daños físicos a procesadores (CPU), tarjetas gráficas (GPU) o inestabilidad del sistema operativo (BSOD) derivadas de conflictos con otro software Ring-0 (Anti-cheats, Antivirus de terceros) o hardware defectuoso preexistente.
+
+PRIVACIDAD Y RECOLECCIÓN DE DATOS
+Sovereign Layer es una arquitectura 100% "Air-Gapped" (Aislada). Monitorea métricas en tiempo real (temperatura, ciclos de reloj, latencia) estrictamente para el funcionamiento interno del motor y la telemetría holográfica local (IPC). KOLOB INC. NO recolecta, transmite a servidores remotos, ni almacena información personal, contraseñas, ni archivos del usuario.
+
+LIMITACIÓN DE RESPONSABILIDAD
+EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY APLICABLE, EN NINGÚN CASO KOLOB INC. O SUS PROVEEDORES SERÁN RESPONSABLES DE NINGÚN DAÑO ESPECIAL, INCIDENTAL, INDIRECTO O CONSECUENTE (INCLUYENDO, SIN LIMITACIÓN, DAÑOS POR PÉRDIDA DE BENEFICIOS COMERCIALES, INTERRUPCIÓN DEL NEGOCIO O PÉRDIDA DE INFORMACIÓN) QUE SURJA DEL USO O LA INCAPACIDAD DE USAR EL PRODUCTO DE SOFTWARE.
+
+LEY APLICABLE Y JURISDICCIÓN
+Este EULA se regirá e interpretará de acuerdo con las leyes de México. Cualquier disputa o controversia será resuelta exclusivamente ante los tribunales competentes de la Ciudad de México.
+
+Al marcar la casilla "Acepto" e instalar este software, usted reconoce que entiende la naturaleza de la Arquitectura Sintérgica, acepta que el software dictará las prioridades físicas de su procesador, y asume el riesgo asociado a la ejecución de este hipervisor de seguridad y optimización.
